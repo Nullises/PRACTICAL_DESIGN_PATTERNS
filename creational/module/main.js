@@ -3,9 +3,9 @@ var Repo = require("./taskRepository");
 
 // Construct a new Task from task Class using Repo module
 var task1 = new Task(Repo.get(1));
-var task2 = new Task({ name: "create a demo for modules" });
-var task3 = new Task({ name: "create a demo for singletons" });
-var task4 = new Task({ name: "create a demo for prototypes" });
+var task2 = new Task({ id: 2, name: "create a demo for modules" });
+var task3 = new Task({ id: 3, name: "create a demo for singletons" });
+var task4 = new Task({ id: 4, name: "create a demo for prototypes" });
 
 task1.complete();
 
