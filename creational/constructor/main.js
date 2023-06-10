@@ -1,6 +1,6 @@
-var Task = require("./task");
+var Task = require("./class");
 
-// Construct a new Task Object
+// Construct a new Task from task Class
 var task1 = new Task("create a demo for constructor pattern");
 var task2 = new Task("create a demo for module pattern");
 var task3 = new Task("create a demo for singleton pattern");
