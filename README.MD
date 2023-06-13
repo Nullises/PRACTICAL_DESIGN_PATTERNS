@@ -2,6 +2,12 @@
 
 TO RUN
 ```
-cd (pattern-type)/pattern
+cd (version)/(pattern-type)/(pattern)
 node main.js
+```
+
+Example:
+
+```
+cd es6/creational/constructor node main.js
 ```
