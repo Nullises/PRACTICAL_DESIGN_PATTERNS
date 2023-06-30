@@ -28,21 +28,21 @@ ts-node file.ts
 
 1. Creational
 
-a. Constructor
-b. Factory
-c. Module
-d. Prototype
-e. Singleton
+- - a. Constructor
+- - b. Factory
+- - c. Module
+- - d. Prototype
+- - e. Singleton
 
 2. Structural
 
-a. Decorator
-b. Façade
-c. Flyweight
+- - a. Decorator
+- - b. Façade
+- - c. Flyweight
 
 3. Behavioral
 
-a. Command
-b. Mediator
-c. Observer
+- - a. Command
+- - b. Mediator
+- - c. Observer
 
